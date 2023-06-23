@@ -1,0 +1,98 @@
+body{
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5) url(grass.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+
+
+
+h1{
+    font-size: 110px;
+    font-family: 'DM Serif Display', serif;
+    margin: auto;
+    color: #C58940;
+    font-size: 10em;
+}
+.subtitle{
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 50px;
+    margin: -15px;
+    color: #ADCF9F;
+}
+h2{
+    color: aquamarine;
+}
+h4{
+    color: azure;
+}
+p{
+    color: azure;
+}
+
+
+
+.main{
+margin-top: 150px;
+margin-bottom: 250px;
+position: relative;
+}
+ul{
+    list-style-type: none;
+}
+.img col-sm{
+   margin-bottom: 75px;
+   padding: 0;
+}
+.message{
+    height:300px;
+    width: 200px;
+}
+.row.container-fluid{
+    margin-bottom: 350px;
+    margin-bottom: 150px;
+}
+#email{
+    background-color: #ADCF9F;
+}
+#subject{
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background-color: #ADCF9F;
+}
+.footer{
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
+
+
+
+
+.logo-img{
+    border-radius: 50%;
+    float: left;
+    width: 20%;
+    margin-left: 20px;
+}
+.dylan-img{
+    border-radius: 50%;
+}
+.shay-img{
+    border-radius: 50%;
+}
+.sally-img{
+    border-radius: 50%;   
+}
+.nav-img{
+    width: 60%;
+    border-radius: 50%;
+}
